@@ -1,3 +1,3 @@
-module github.com/y3kawaguchi/tutorial-tracer
+module github.com/y3kawaguchi/tutorial-trace
 
 go 1.14
